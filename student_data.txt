@@ -1,0 +1,433 @@
+11231089, Rizky Irswanda Ramadhana, 3.92
+11221080, Christian Felix, 3.90
+11231015, Bagus Nur Andiansyah, 3.82
+11241080, Sulthan Farizan Fawwaz, 3.78
+11201065, Muhammad Nasai Kairupan, 3.77
+11211013, Angela Catherina, 3.76
+11211086, YOGA TIARA WIGUNA, 3.75
+11211005, AHMAD RUSDIANTO ANDARINA SYAKBANI, 3.74
+11221065, Muhammad Fatihul Iqmal, 3.73
+11221020, Abellia Putri Dwi Masita, 3.72
+11241064, Muhammad Zaini, 3.72
+11231085, rahmi syafitri, 3.70
+11231027, Galuh Juliviana Romanita, 3.69
+11201072, Nico Siahaan, 3.69
+11231080, Raditya Yusma Nata, 3.68
+11211070, RAMADHAN DJIBRAN SANJAYA, 3.67
+11211009, Alpian Roymundus Siringo-ringo, 3.67
+11201071, Nadhira Rizqana Nur Salsabila, 3.67
+11241086, Vanessa Marie Tandiarru, 3.67
+11241070, Nathanael Prasetyo, 3.67
+11211019, ARWIN MARINTA, 3.66
+11201043, Istaqom Wirawan Adi Pratama, 3.65
+11201027, Ersan Karimi, 3.65
+11241076, Rana Afifah Dzikro, 3.64
+11241041, Lisa Sapitri, 3.64
+11221003, Fhiqi Maulana As-Sddiq, 3.63
+11211014, ANISYA INDRA WIJAYA, 3.62
+11221057, Fakhrizal Naufal, 3.62
+11211052, MUHAMAD SAMAN, 3.62
+11221032, Alex Ananda Romadhona, 3.60
+11231047, Muhammad 'Aaqil Saputra, 3.59
+11211036, FACHRY AZARIA PRADIPTA, 3.59
+11211010, Amalia Kartika, 3.58
+11211047, LUTHFY AHMAD RAMADHANI, 3.58
+11211069, RAIHAN RAMADHANI, 3.58
+11221052, Azhar Rizqullah Fakhri Ismail, 3.58
+11221077, Ilham Al Basith, 3.58
+11231092, Zakaria Fattawari, 3.58
+11241082, Terrano Jazil Fadiatmoko, 3.58
+11211068, Rafid Al Khairy, 3.57
+11221023, Hylmi Wahyudi, 3.57
+11231065, Muhammad Shadiq Al Fatiy, 3.57
+11211043, Helmi, 3.57
+11201076, Putri Qonita Arif, 3.57
+11221058, Dion Prayoga, 3.57
+11231005, Aisyah Wilda Fauziah Amanda, 3.56
+11231059, Muhammad Nazril Ilham, 3.56
+11201040, Ilham Rahmaddani Adhie Prayoga, 3.56
+11211046, JIHAN APRILIANI NURHASANAH, 3.56
+11191009, Andriani Fenny Maulidha, 3.56
+11211029, DARRELL TIMOTHY NASARANY, 3.56
+11241040, Kevin Jonathan Wijaya, 3.56
+11241079, Sebastian Paskahadi Budiman, 3.56
+11221082, Muh. Rafi Al' Ayyubi, 3.55
+11221030, Wiranto, 3.55
+11191052, Muhammad Rafliadi, 3.55
+11211001, ABDUL GHANI DIMAS ALI AHMADI, 3.55
+11221040, Yunnifa Nur Lailli, 3.55
+11211041, Giovano Okta Jovanka, 3.55
+11191073, Wahyu Barka Syafaru, 3.55
+11211033, DWI SAVIRA APRILIANTI, 3.54
+11231014, Bagas Yoga Pratama Pramudika, 3.54
+11211053, MUHAMMAD ADHITYA, 3.54
+11221018, Ardhi Iwantara Saputra, 3.54
+11211080, SAHDA ARYANTI, 3.54
+11211025, Carmelita Angeline Tanujaya, 3.54
+11221006, Amrina Rossada, 3.53
+11211074, RENDY PERNANDA, 3.53
+11201033, Firda Agustina Kusumaningrum, 3.53
+11221028, Gusti Muhammad Risandha, 3.52
+11211012, Andrew Arief Riyadi, 3.52
+11191038, Kurnia Andini, 3.51
+11221005, Nabila Chairunnisa, 3.50
+11211071, RANGGA HERMAWAN, 3.50
+11211026, Caroline Adi Cahya, 3.50
+11221024, Wahyu Fadilah Saraswati, 3.50
+11231001, Abdullah Adiwarman Wildan, 3.50
+11211040, Felix Dean Janitra, 3.50
+11201006, Aisyah Nevalia Balqis, 3.50
+11211061, MUHAMMAD NURALIMSYAH, 3.50
+11201089, Tio Hady Pranoto, 3.49
+11201075, Putri Oktatriani, 3.49
+11201058, Muhammad Adnan Fadhil, 3.49
+11231020, Dicha Wijaya Kusuma, 3.49
+11211018, ARIQ HUWAIDI, 3.49
+11211050, MARKSON L. DJOMIE, 3.49
+11211066, Naflah Shafa Edia, 3.49
+11181065, Muhhadi Adi Manyu, 3.48
+11211008, ALMADITHA DARA TIVANI, 3.47
+11201062, Muhammad Huzaimi, 3.47
+11221063, Rionando Soeksin Putra, 3.47
+11211073, Rendi Kurniawan, 3.47
+11211017, Ariel Zakly Pratama, 3.47
+11221029, Hadad Fadilah, 3.47
+11191029, Imam Badri Rizaman El Soffone, 3.46
+11211067, NUR ALI RAJAB, 3.46
+11201083, Renaldi Tri Saputra, 3.46
+11211083, Shalden Mido Putra Danuarta, 3.46
+11231077, Olivia Dafina, 3.46
+11221070, Glenn Gladly Gessong, 3.46
+11191051, Muhammad Gozy Al Vaiz, 3.45
+11201022, Dimas Aryo Mahendro, 3.45
+11181079, Sulistyawan Abdillah Rosyid, 3.45
+11211060, MUHAMMAD NAUFAL MUHYIDDIN, 3.45
+11221016, Ince Iqbal Aulia Salam, 3.45
+11211076, RIFQAH AZZAH MU'TASHIMAH, 3.45
+11231030, Hari Yatun Nasifa, 3.45
+11211003, ADINIA AMALIAH, 3.44
+11221011, Ahmad Fakhrurrozi, 3.44
+11191018, Delivio Fernanda, 3.43
+11211004, ADMUHAM ISTHAKRADHEI, 3.43
+11211087, YOSSI EZRA AFRIANI, 3.42
+11221043, Hairul Irawan, 3.42
+11221033, Desti Nur Irawati, 3.42
+11181055, Muhammad Irfan Hawari, 3.42
+11191071, Taufik Setyawan, 3.42
+11211072, REMET TIRZAH ANATASYA, 3.42
+11211027, Cynthia Putri Siregar, 3.42
+11201003, Ahmad Lora Fawaid, 3.42
+11241025, dea cinta ramadani, 3.42
+11241053, Muhammad Farel Alkayis, 3.42
+11201057, Mochamad Saadila Effendi, 3.42
+11181037, Inriyani Beatrix Thomas, 3.41
+11231069, Naomi Ratna Marisaha Guen, 3.41
+11211049, Manahati Lombu, 3.41
+11221046, Muhammad Raihan Bramatama, 3.41
+11221076, Faiz Ahnaf Samudra Azis, 3.41
+11231090, Shabrina Alya Aureliya, 3.41
+11221069, Alifah Nur Aisyah, 3.40
+11201053, Malik Fajriyan Akbar, 3.40
+11221034, Iqbal Fahrozi, 3.40
+11221051, Reno Fahrezi Purnomo, 3.40
+11211037, Fahri Dwi Hariyadi, 3.40
+11221031, Dilla Ayu Puspitasari, 3.39
+11211042, Guntur Wisnu Saputra, 3.39
+11211007, ALESSANDRO BENAYA PINEM, 3.39
+11241056, Muhammad Iqbal Ferhan, 3.39
+11211051, MIFTAHUL JANNAH ZAHRATUNNISA, 3.39
+11191023, Febriana, 3.39
+11221008, Febriani, 3.39
+11201061, Muhammad Fathurrohim, 3.39
+11211062, MUHAMMAD RICKY ZAKARIA, 3.38
+11221056, Pahril Dwi Saputra, 3.38
+11201085, Riyo Rizky Prayogi, 3.38
+11201009, Andrean Achmad Sharon, 3.38
+11201081, Rayhan Fadillah, 3.38
+11231010, Andi Zalfa Zahirah Najib, 3.38
+11201042, Ismail Saputra Sapareng, 3.38
+11221007, Syifa Maulida, 3.37
+11211085, YAHYA WIRYATEJA SADESI, 3.37
+11221073, Tatak Adi Subagyo, 3.37
+11191067, Satria Dio Septian, 3.37
+11201044, Iwan Saputra, 3.37
+11211084, Wardatul Jannah, 3.37
+11191048, Muhammad Asfian, 3.36
+11201059, Muhammad Bilal, 3.36
+11241074, Prima Hafidz Maulana, 3.36
+11201067, Muhammad Sahibul Said, 3.36
+11201055, Mikail Yuma Anri Malino, 3.36
+11211023, BHAGAVATGITA MAHARDIKA KESUMA PUTRA, 3.36
+11231048, Muhammad Abdurrachim, 3.35
+11221050, Zaky Dio Akbar Pangestu, 3.35
+11211038, Farah Aqeela, 3.35
+11211048, M. AQSAL ILHAM SYAFATULLAH, 3.35
+11221027, Wafiq Ajriyah, 3.35
+11221078, Frieza Sadira, 3.35
+11181057, Muhammad Khoirul Abdulloh, 3.35
+11221021, Fanky Wellsy Pongoh, 3.34
+11211063, MUHAMMAD RIFQIANDI, 3.34
+11211021, Bagus Triyudanto, 3.34
+11211082, Shafa Putri Sasmito, 3.34
+11191016, Brayen Novendra, 3.34
+11211064, MUHAMMAD SYAHRUL MAULANA, 3.34
+11241050, Muhammad Aditya Putra, 3.33
+11241087, Veronika Thalila Putri, 3.33
+11221045, Dhede Kusuma Ramadhan, 3.33
+11231035, Kanaya Anada Lukito, 3.33
+11231021, Dimas Ramadhani, 3.33
+11211054, MUHAMMAD ALDIANSYAH, 3.32
+11221022, Hanafi Mas'uul Prastyadi, 3.32
+11181012, Anggara Azis Saputra, 3.31
+11221041, Nabil Ahmed Savero, 3.31
+11181075, Risna Ariati, 3.31
+11201035, Grisfian Rusandy, 3.31
+11241014, Andi Naufal Nurfadhil, 3.31
+11241036, James Alvaro Gavriel Pulung, 3.31
+11221038, Khovita Zulkarimah, 3.30
+11231036, MUHAMMAD AZKA YUNASTIO, 3.30
+11221074, Muhammad Izzi Alfatih, 3.29
+11211039, Fatahillah Alif Arif, 3.29
+11231037, Mahardika Arka, 3.28
+11231016, Bayu Raihan Paratama, 3.28
+11211059, Muhammad Maulana Fazri, 3.28
+11201023, Dimas Dewanto, 3.28
+11241092, Zharif Aziz Zulkarnain Widodo, 3.28
+11241012, Amalia Rahmanda, 3.28
+11231031, Imam Dzulvan Muffid, 3.28
+11231075, Nurul Assyifah, 3.28
+11231039, MICHAEL PETER VALENTINO S, 3.28
+11231076, Oktiara Azzahra Rahmadina, 3.28
+11221019, Azhari Rambe, 3.27
+11191039, Mandani Imaniar Ramadhani, 3.27
+11211057, Muhammad Erlangga Putra Hendrawan, 3.27
+11231078, Oriana Nadienta Kadarsih, 3.27
+11221012, Aqilah, 3.27
+11221075, Naufal Andrian, 3.26
+11231034, Junnior Marcellino Polla, 3.26
+11231046, Muhamad Nico Arifin, 3.26
+11231056, Muhammad Iqbal Alexandre Saputra, 3.26
+11221010, Angger Karisma Deotama, 3.26
+11221072, Isnaini Zayyana Fitri, 3.25
+11241071, Naufal Rifqi Rahman, 3.25
+11231062, Muhammad Rivaldi, 3.25
+11231066, Muhammad Yunus, 3.25
+11231070, Naufal Faza Adhitya, 3.25
+11201031, Fauzan Andyka Ramadhani, 3.25
+11231071, Naufal Tiarana Putra, 3.25
+11241031, Fikhar Riyazul Islam, 3.25
+11241083, Thisya Darmala, 3.25
+11221013, Nasya Deani Amanda, 3.25
+11181080, Tasya Putri Ramadhani, 3.24
+11231081, Rafi Baydar Athaillah, 3.24
+11211079, RUDI SUBRIYANTO, 3.24
+11221014, Erizki Fadli, 3.24
+11221015, Difa Rajes Tiadi, 3.24
+11221026, Ardi Dwi Saputra, 3.24
+11221084, Ayu Nabila Andara Wati, 3.24
+11201020, Dhaffa Agusrian Putra, 3.23
+11221064, Samuel Benedicto Siahaan, 3.23
+11191072, Trifani Arella Putra, 3.23
+11191004, Ahmad Iqbal Fadhillah, 3.22
+11231072, Noel Ericson Rapael Sipayung, 3.22
+11201008, Andi Muhammad Rizki, 3.22
+11241049, Muhamad Rizal, 3.22
+11201056, Mirza Hafizh Fadillah, 3.22
+11201086, Sahat Matua Sinaga, 3.22
+11191065, Riky Fernando, 3.22
+11231038, Maulida Rahmayanti, 3.22
+11231060, Muhammad Rakha Randika, 3.21
+11221035, Tito Ariffianto Miftahul Huda, 3.21
+11221085, Azzatul Nabila Kahar, 3.21
+11231067, Muhammad Zaki Afriza, 3.21
+11221037, Muhammad Akmal Al- Fathan, 3.21
+11221061, Arifia Dyah Sulistyani, 3.21
+11231004, Adji Zahra Mahdiyyah, 3.21
+11231025, Faiz Alrazi Hidayat, 3.21
+11211077, Rio Yefta Manullang, 3.20
+11221086, Daffa Raihan Utama, 3.20
+11181017, Bernards Bhima Immanuell August Dwiputra, 3.20
+11231040, Miftahul Fauzi Rifai, 3.20
+11221025, Ni Wayan Rini Kurniati, 3.20
+11221047, Muhammad Taufiqurrahman, 3.19
+11201047, Jullivan Yusni, 3.19
+11181067, Mulyanur Hanafi, 3.19
+11191028, Ibnu Yudha Raul Pratama Yunaz, 3.19
+11221004, Dhio Anugrah Prakasa Putro, 3.18
+11211016, ARDIANSYAH BIN SANGKALA, 3.18
+11221044, Tengku Rayhan Saputra, 3.18
+11231068, Nabilla Nur Aini, 3.18
+11231058, MUHAMMAD LUTHFAN THAMRIN, 3.18
+11191014, Azizi Faris Zamawan, 3.18
+11211055, Muhammad Ardian Saputra, 3.17
+11241035, Ibnu Dwiki Hermawan, 3.17
+11241062, MUHAMMAD RIZKY WICAKSONO, 3.17
+11241009, Aldy Tri Ramadhani, 3.17
+11241047, MUH. INDRA ANUGRAH, 3.17
+11241019, BRIAN FRISCO SIMANJUNTAK, 3.17
+11241048, Muhamad Radyt Iksan Pratama, 3.17
+11201039, Ichsan Maulana, 3.16
+11231011, ANITYA C.R. SINAGA, 3.16
+11231013, Arya Zaky Pradipta, 3.16
+11221055, Ananda Dihan Naufal, 3.16
+11201014, Arief Reno Fathurrahman, 3.16
+11221059, Christian Alfa Romeo Lontoh, 3.15
+11181078, Sofyan Sauri, 3.15
+11221039, Niko Afandi Saputro, 3.15
+11221087, Dewi Purnamasari, 3.15
+11181038, Jihan Silvi Rahmayani, 3.14
+11231054, Muhammad Fachrudy Al-Ghifari, 3.14
+11201001, Agung Gihon Simanjuntak, 3.14
+11241018, Bhisma Aprian Prayogi, 3.14
+11241021, Chrisella Sefriana Tilukay, 3.14
+11191046, Muhamad Rizki, 3.14
+11211056, Muhammad Cahyo Abdul Syukur, 3.14
+11231084, Rahmahdaniah Fitri, 3.13
+11231049, MUHAMMAD AINUN NASICHIN, 3.13
+11231055, Muhammad Fatwa Al Choiri, 3.13
+11191015, Benny Seto Wicaksono, 3.12
+11221054, Arya Andhika Trisnawan, 3.12
+11191006, Alan Kartikacandra, 3.12
+11221062, Raihan Fadhilah, 3.12
+11181036, Imelda Nur Amalya, 3.12
+11211030, DEVAN APRIANDI DWICAHYA, 3.12
+11231003, Aditya Ridho Nugroho, 3.12
+11181068, Nadiah Auliah, 3.11
+11241022, CHRISTIAN IMANUEL ADMOJO, 3.11
+11241063, MUHAMMAD WISNU WARDHANA, 3.11
+11241011, Alisya Duri Azizah, 3.11
+11231023, Fadhil Awalia Kusuma, 3.11
+11221068, Syahrubi Alam Bahari, 3.10
+11221049, Rianto Padli, 3.09  
+11221009, Farizi Fattah, 3.09  
+11231082, Rafi Fairuz, 3.09  
+11241045, Mochammad Azriel Albian Putra, 3.08  
+11241028, Fauzan Fayzul Haq, 3.08  
+11241060, Muhammad RIdho Alfarod, 3.08  
+11241002, Aditiya kusuma, 3.08  
+11231041, Mochammad Reezqi Pratama, 3.08  
+11221060, Muhammad Sheva Mantovany, 3.07  
+11231007, Alief Rahmatul Islam, 3.07  
+11221079, Andy Cole, 3.07  
+11181035, Ichwan Khatulistiwa Vidiatmaja, 3.07  
+11231019, Daniel Belawa Koten, 3.06  
+11241001, Abbie Dzakwan Putra Setyawan, 3.06  
+11241044, Mayoga Finanda, 3.06  
+11241085, Tiara Saparang, 3.06  
+11241024, Daniel Juan Haris Hutajulu, 3.06  
+11231057, Muhammad Kevin Wardhana, 3.05  
+11221042, Muhammad Shadam Bastian, 3.05  
+11221048, Abigail Pormes, 3.05  
+11221002, Laila Mustika Sari, 3.05  
+11231045, Muhamad Faisal, 3.04  
+11221090, Rafli Pratama Yuliandi, 3.04  
+11231024, Fadhil Zulfikar, 3.04  
+11241037, JASMINE AISHWARYA WANDHA, 3.03  
+11241007, Akmal Nuzulla, 3.03  
+11241038, Jasmine Ayu Andini, 3.03  
+11241067, Nabilah Al Fadiyah, 3.03  
+11241033, Gian Al haritz Ueldy Secondri, 3.03  
+11231050, Muhammad Aldri Saputra, 3.03  
+11231008, Amisha Nabila Wiguna, 3.02  
+11191022, Fabian Fernanda Matondang, 3.02  
+11221053, Muamnar Ihsan, 3.02  
+11231053, MUHAMMAD ELBRA HERLAMBANG, 3.01  
+11211065, MUHAMMAT RISKY AZIS, 3.01  
+11231087, RISKY ALFIENDA, 3.01  
+11231022, Eka Purnamasari Arfat, 3.01  
+11181011, Andri Hanata, 3.00  
+11241078, RIFAT ARIFALDO, 3.00  
+11201070, Muhammad Zainul Rifki Ramadhan, 3.00 
+11231086, RAYHAN MARCELLO ANANDA PURNOMO, 2.99  
+11241004, Adrian Tannady, 2.97  
+11241081, Syahri Nasta’in, 2.97  
+11211035, Edis Nabila Ramadhani, 2.97  
+11181060, Muhammad Noor Ilham, 2.97  
+11231026, Faqih Chairul Anam, 2.96  
+11231042, mochammad syachdan pratama sanjaya, 2.96  
+11221067, Awal Ramadhani, 2.96  
+11231044, Mohammad Rizky Kurniadinata, 2.95  
+11241015, Ariel, 2.94  
+11231083, Rafly Taufika Fikri, 2.94  
+11231002, Abiem Akmal Fadhil, 2.94  
+11231061, Muhammad Rayhan Saputra, 2.93  
+11231088, Riza Luthfie Rusmana, 2.92  
+11231028, Gihon Endrios Aruan, 2.92  
+11241027, Dylan Sukma Yudha, 2.92  
+11241068, Nadine Adelia Rizky Kusmanda, 2.92  
+11241005, Ahmad Anwar Abdul Qowi, 2.89  
+11201011, Anisah Fanny Sajidah, 2.89  
+11231012, Anugrah Alian Putratama, 2.88  
+11201064, Muhammad Miftahul Asyhar, 2.88  
+11231052, Muhammad Athif Azzaky, 2.86  
+11241084, Thopan Rahman Hakim, 2.86  
+11241066, Nabil Arif Ikhwanul Hakim, 2.86  
+11241020, Bryan Fitur Ayni, 2.86  
+11231006, Akmal Falah Maulana, 2.86  
+11241010, Alisha Zalfa Safitri, 2.83  
+11231029, HADRI HARAZIT, 2.82  
+11241023, Cindy Aulia Renita, 2.81  
+11241073, Pandu Restu Adjie, 2.81  
+11241090, Yumna Azzahra, 2.81  
+11241065, Mutia Rahmawati, 2.81  
+11241059, Muhammad Rayhant AlMunawar, 2.81  
+11231033, JUAN RESQ SUKARDI, 2.80  
+11201080, Ramadhan Hidayat, 2.79  
+11231043, Moh. Hayyi Royhussaid, 2.79  
+11221088, Muhammad Haikal Ar Ridwan, 2.78  
+11241089, WULAN OKTAVIANTY AJITOMO, 2.78  
+11241006, AHMAD RAFIF RAFI, 2.78  
+11231073, NURFAUZAN GYMNASTIAR, 2.77  
+11231017, Brikal Adhitama Santoso, 2.76  
+11181073, Richard Chandra T, 2.76  
+11231074, Nurhafid Sudarianto, 2.75  
+11211034, DWIKO FEBRIAN, 2.73  
+11221036, Gideon Marlyam Hendika, 2.73  
+11231091, Vivian Marsyanda, 2.72  
+11241030, Ferdianta Tarigan, 2.72  
+11241057, Muhammad Khairullah Kosasih Zain, 2.72  
+11241013, Anantha Lokantara, 2.72  
+11231009, Andhika Ramadhan, 2.72  
+11241054, Muhammad Fauzan Akmal, 2.69  
+11241072, NurMuhammad Wahyu Ramadhan, 2.69  
+11231051, MUHAMMMAD ARSYAD AZ ZAKIR, 2.68  
+11241075, RAFAEL HOTDION LUMBAN TORUAN, 2.67  
+11241034, Giva Asilah Hasnaa Putri, 2.67  
+11231032, Jihan Imelia Audhia, 2.67  
+11231018, Christ Williams Billy, 2.62  
+11241051, Muhammad Afdhalul Adam, 2.61  
+11241058, Muhammad Nabil Ihyalfikra, 2.58  
+11241017, Berlian Mayfarel Rafael, 2.58  
+11241016, Benediktus Aldreno Fabian Wowor, 2.56  
+11231064, Muhammad Satriya Hammami Putra Nugroho, 2.55  
+11201029, Esa Gilang Candra Rianto, 2.50  
+11241032, Gathan Gafarrel Aqilla, 2.50  
+11241077, Rhadyt Insan Faryabie, 2.47  
+11211078, Rizky Aditya Putra, 2.45  
+11241026, Diva Novaliza Fitriyani, 2.44  
+11221071, Cinta Satilla, 2.37  
+11191075, Wisnu Dayan Saputra, 2.35  
+11241088, Vincensius Frodo Siregar, 2.33  
+11241003, Adrian Orlin Vinsensyah, 2.33  
+11211045, Ivander Nathanael Tindaon, 2.33  
+11241039, Kanjeng Adha Nur Asis, 2.25  
+11181039, Jimmy Kartika Chandra, 2.16  
+11241029, Fazly Pasya Pahlevi, 2.03  
+11241069, Naila Kalsum, 2.03  
+11201054, Maulid Fadhilah Alfarizy, 1.96  
+11211006, Ahmad Rusyadi Mukarram, 1.91  
+11211020, Arya Islami Surya Yustisia, 1.90  
+11241042, M. Sya'bani Nur Zain, 1.89  
+11241008, Aldo Adirajasa Fathoni, 1.53  
+11211022, Bayu Arib Fauzan, 1.46  
+11241091, Zamir Zulkarnain Litbarsky, 1.44  
+11241043, Maulana Wahid Ramadan, 1.44  
+11241052, Muhammad Fakhrii Julian Noor, 1.42  
+11221017, Sahala Daniel Simanjuntak, 1.38  
+11221089, Hizkia Ermundo Baunsele, 1.37  
+11231079, Peter Rizky Oktaviano Purwandoko, 1.31  
+11241061, MUHAMMAD RIFQY DZAKWAN, 0.89  
+11241055, Muhammad Iqbal, 0.33  
+11241046, MOHAMMAD MAMBA'U KHUSNUL UMAM, 0.22  
+ 
+
