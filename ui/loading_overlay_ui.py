@@ -1,42 +1,46 @@
 from PyQt5.QtWidgets import QWidget, QVBoxLayout, QLabel, QProgressBar
 from PyQt5.QtCore import Qt
+from PyQt5.QtGui import QFont
 
 class LoadingOverlay(QWidget):
     def __init__(self, parent=None):
         super().__init__(parent)
         self.setAttribute(Qt.WA_StyledBackground, True)
-        self.setWindowFlags(Qt.FramelessWindowHint)
-        self.setStyleSheet("background-color: rgba(0, 0, 0, 160);")
+        self.setWindowFlags(Qt.SubWindow | Qt.FramelessWindowHint)
+        self.setStyleSheet("background-color: rgba(0, 0, 0, 100);")
         self.setVisible(False)
 
-        # Layout utama tengah
         layout = QVBoxLayout(self)
         layout.setAlignment(Qt.AlignCenter)
 
-        # Container loading
+        # Kotak putih (container)
         self.container = QWidget()
-        self.container.setFixedSize(320, 160)
+        self.container.setFixedSize(320, 180)
         self.container.setStyleSheet("""
             background-color: white;
             border-radius: 12px;
         """)
 
         container_layout = QVBoxLayout(self.container)
-        container_layout.setAlignment(Qt.AlignCenter)
+        container_layout.setContentsMargins(20, 20, 20, 20)
+        container_layout.setSpacing(15)
+        container_layout.setAlignment(Qt.AlignTop | Qt.AlignHCenter)
 
-        # Progress bar dengan persentase
+        # Progress Bar
         self.progress = QProgressBar()
-        self.progress.setFixedSize(240, 25)
+        self.progress.setFixedWidth(260)
+        self.progress.setFixedHeight(26)
         self.progress.setRange(0, 100)
         self.progress.setValue(0)
         self.progress.setAlignment(Qt.AlignCenter)
         self.progress.setFormat("%p%")
         self.progress.setStyleSheet("""
             QProgressBar {
-                border: 1px solid #ccc;
+                border: 1px solid #bbb;
                 border-radius: 10px;
                 background-color: #eee;
                 font-weight: bold;
+                text-align: center;
             }
             QProgressBar::chunk {
                 background-color: #3498db;
@@ -44,16 +48,20 @@ class LoadingOverlay(QWidget):
             }
         """)
 
-        # Label teks
+        # Label teks di bawah progress bar
         self.label = QLabel("🔄 Lagi ngurut-ngurutin data mahasiswa...\nTunggu sebentar ya!")
-        self.label.setWordWrap(True)
         self.label.setAlignment(Qt.AlignCenter)
-        self.label.setStyleSheet("color: #333; font-size: 13px;")
+        self.label.setWordWrap(True)
+        self.label.setFixedWidth(280)
+        self.label.setStyleSheet("""
+            color: #333;
+            font-size: 14px;
+            font-weight: bold;
+        """)
 
-        # Tambahkan ke layout
-        container_layout.addWidget(self.progress)
-        container_layout.addSpacing(10)
-        container_layout.addWidget(self.label)
+        container_layout.addWidget(self.progress, alignment=Qt.AlignHCenter)
+        container_layout.addWidget(self.label, alignment=Qt.AlignHCenter)
+
         layout.addWidget(self.container)
 
     def show_overlay(self):
@@ -66,5 +74,5 @@ class LoadingOverlay(QWidget):
     def hide_overlay(self):
         self.setVisible(False)
 
-    def update_progress(self, percent):
-        self.progress.setValue(int(percent))
+    def update_progress(self, value: float):
+        self.progress.setValue(int(value))

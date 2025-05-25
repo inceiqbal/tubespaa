@@ -1,5 +1,8 @@
 import random
-from PyQt5.QtWidgets import QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QTableWidget, QTextEdit, QLabel, QTableWidgetItem
+from PyQt5.QtWidgets import (
+    QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
+    QTableWidget, QTextEdit, QLabel, QTableWidgetItem
+)
 from PyQt5.QtCore import Qt, QTimer
 from logic.sorting import insertion_sort_with_log
 from logic.dialogs import ask_animation_mode
@@ -31,6 +34,7 @@ class MainWindow(QMainWindow):
         self.speed_multiplier = 1.0
         self.is_paused = False
         self.animation_running = False
+        self.skip_requested = False
 
         root = QWidget()
         layout = QHBoxLayout()
@@ -94,7 +98,6 @@ class MainWindow(QMainWindow):
         if group == "Semua Angkatan":
             self.loading_overlay.show_overlay()
             QTimer.singleShot(100, lambda: self.start_sorting(animated=False))
-            QTimer.singleShot(1800, lambda: self.loading_overlay.hide_overlay())  # sembunyikan overlay saat selesai
         else:
             animated = ask_animation_mode(self)
             self.start_sorting(animated)
@@ -102,7 +105,13 @@ class MainWindow(QMainWindow):
     def start_sorting(self, animated):
         key = self.sort_combo.currentText()
         data = self.sorted_data.copy()
-        sorted_data, log_steps, op_count = insertion_sort_with_log(data, key, self.compare)
+
+        sorted_data, log_steps, op_count = insertion_sort_with_log(
+            data,
+            key,
+            self.compare,
+            progress_callback=(self.loading_overlay.update_progress if not animated else None)
+        )
 
         self.operation_label.setText(f"Operasi dasar: {op_count}")
         self.sorted_data = sorted_data
@@ -117,13 +126,16 @@ class MainWindow(QMainWindow):
             self.display_data(sorted_data)
             self.show_log(log_steps)
             self.hide_animation_controls()
+            self.loading_overlay.hide_overlay()  # hide overlay after sorting
 
     def skip_animation(self):
         if self.animation_running:
+            self.skip_requested = True
             self.animation_running = False
             self.hide_animation_controls()
             self.display_data(self.sorted_data)
             self.show_log(self.full_log_steps)
+            self.loading_overlay.hide_overlay()
 
     def show_animation_controls(self):
         self.skip_btn.setVisible(True)
