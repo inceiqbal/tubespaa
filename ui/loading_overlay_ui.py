@@ -1,6 +1,7 @@
 from PyQt5.QtWidgets import QWidget, QVBoxLayout, QLabel, QProgressBar
 from PyQt5.QtCore import Qt
-from PyQt5.QtGui import QFont
+from PyQt5.QtGui import QFontMetrics, QFont
+
 
 class LoadingOverlay(QWidget):
     def __init__(self, parent=None):
@@ -13,7 +14,7 @@ class LoadingOverlay(QWidget):
         layout = QVBoxLayout(self)
         layout.setAlignment(Qt.AlignCenter)
 
-        # Kotak putih (container)
+        # Kotak putih
         self.container = QWidget()
         self.container.setFixedSize(320, 180)
         self.container.setStyleSheet("""
@@ -21,10 +22,10 @@ class LoadingOverlay(QWidget):
             border-radius: 12px;
         """)
 
-        container_layout = QVBoxLayout(self.container)
-        container_layout.setContentsMargins(20, 20, 20, 20)
-        container_layout.setSpacing(15)
-        container_layout.setAlignment(Qt.AlignTop | Qt.AlignHCenter)
+        self.container_layout = QVBoxLayout(self.container)
+        self.container_layout.setContentsMargins(20, 20, 20, 20)
+        self.container_layout.setSpacing(20)
+        self.container_layout.setAlignment(Qt.AlignCenter)
 
         # Progress Bar
         self.progress = QProgressBar()
@@ -40,7 +41,6 @@ class LoadingOverlay(QWidget):
                 border-radius: 10px;
                 background-color: #eee;
                 font-weight: bold;
-                text-align: center;
             }
             QProgressBar::chunk {
                 background-color: #3498db;
@@ -48,26 +48,42 @@ class LoadingOverlay(QWidget):
             }
         """)
 
-        # Label teks di bawah progress bar
-        self.label = QLabel("🔄 Lagi ngurut-ngurutin data mahasiswa...\nTunggu sebentar ya!")
+        # Label dinamis
+        self.label = QLabel("Tunggu sebentar ya")
         self.label.setAlignment(Qt.AlignCenter)
         self.label.setWordWrap(True)
-        self.label.setFixedWidth(280)
-        self.label.setStyleSheet("""
-            color: #333;
-            font-size: 14px;
-            font-weight: bold;
-        """)
+        self.label.setFixedWidth(260)
+        self.label.setStyleSheet("color: #333; font-weight: bold;")
 
-        container_layout.addWidget(self.progress, alignment=Qt.AlignHCenter)
-        container_layout.addWidget(self.label, alignment=Qt.AlignHCenter)
-
+        # Tambahkan ke layout
+        self.container_layout.addWidget(self.progress)
+        self.container_layout.addWidget(self.label)
         layout.addWidget(self.container)
+
+        self.adjust_label_font()
+
+    def adjust_label_font(self):
+        """Ubah ukuran font label otomatis agar muat di area tetap."""
+        max_width = self.label.width()
+        max_height = 40
+        base_size = 18
+        text = self.label.text()
+
+        font = QFont("Segoe UI", base_size)
+        metrics = QFontMetrics(font)
+
+        while (metrics.boundingRect(text).width() > max_width or 
+               metrics.boundingRect(text).height() > max_height) and font.pointSize() > 8:
+            font.setPointSize(font.pointSize() - 1)
+            metrics = QFontMetrics(font)
+
+        self.label.setFont(font)
 
     def show_overlay(self):
         if self.parent():
             self.setGeometry(0, 0, self.parent().width(), self.parent().height())
         self.progress.setValue(0)
+        self.adjust_label_font()
         self.setVisible(True)
         self.raise_()
 
