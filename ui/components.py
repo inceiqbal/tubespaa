@@ -71,6 +71,13 @@ def create_sidebar(main_window):
     main_window.sort_combo.addItems(["NIM", "Nama", "IPK"])
     sidebar_layout.addWidget(main_window.sort_combo)
 
+    # 🔼🔽 Tambahan urutan (ascending/descending)
+    sidebar_layout.addWidget(QLabel("Urutan:"))
+    main_window.order_combo = QComboBox()
+    main_window.order_combo.addItems(["Naik", "Turun"])
+    sidebar_layout.addWidget(main_window.order_combo)
+
+    # ▶️ Tombol Mulai Sorting
     main_window.sort_btn = QPushButton("▶️ Mulai Sorting")
     sidebar_layout.addWidget(main_window.sort_btn)
 

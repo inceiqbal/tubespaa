@@ -14,7 +14,7 @@ from ui.loading_overlay_ui import LoadingOverlay
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("📊 Visualisasi Sorting Mahasiswa")
+        self.setWindowTitle("📊sortsmart")
         self.setGeometry(100, 100, 1150, 620)
         self.setStyleSheet("""
             * { font-family: 'Segoe UI'; font-size: 13px; }
@@ -105,11 +105,14 @@ class MainWindow(QMainWindow):
     def start_sorting(self, animated):
         key = self.sort_combo.currentText()
         data = self.sorted_data.copy()
+        order = self.order_combo.currentText()
+        ascending = order == "Naik"
 
         sorted_data, log_steps, op_count = insertion_sort_with_log(
             data,
             key,
             self.compare,
+            ascending=ascending,  # ✅ Memperhatikan urutan naik/turun
             progress_callback=(self.loading_overlay.update_progress if not animated else None)
         )
 
@@ -126,7 +129,7 @@ class MainWindow(QMainWindow):
             self.display_data(sorted_data)
             self.show_log(log_steps)
             self.hide_animation_controls()
-            self.loading_overlay.hide_overlay()  # hide overlay after sorting
+            self.loading_overlay.hide_overlay()
 
     def skip_animation(self):
         if self.animation_running:
@@ -179,7 +182,7 @@ class MainWindow(QMainWindow):
         elif key == "Nama":
             return a[1].lower() > b[1].lower()
         elif key == "IPK":
-            return float(a[2]) < float(b[2])
+            return float(a[2]) > float(b[2])  # ✅ konsisten untuk ascending=True
         return False
 
     def load_student_data(self):
